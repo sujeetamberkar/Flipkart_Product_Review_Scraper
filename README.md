@@ -19,4 +19,5 @@ The product review data includes the following details:
 # Usage
 Upon running the script, you will be prompted to enter a search string. This should be the name of the product you want to retrieve reviews for. The script will fetch the product page, scrape the reviews, and then display them in the console.
 
-# By SUJEET AMBERKAR
+# Author 
+SUJEET AMBERKAR
